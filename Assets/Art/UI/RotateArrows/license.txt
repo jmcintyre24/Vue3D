@@ -1,0 +1,2 @@
+Provided By Blindman67, modified to create the rotation arrows and compass.
+https://opengameart.org/content/30-drag-rotate-move-cursors
